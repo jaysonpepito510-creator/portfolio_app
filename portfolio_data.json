@@ -1,0 +1,68 @@
+{
+    "awards": [
+        {
+            "category": "Certification",
+            "date": "2025",
+            "description": "Validated competencies in web development, database management, and cloud application deployment.",
+            "id": "a1",
+            "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&auto=format&fit=crop&q=80",
+            "issuer": "DICT Philippines / Tech Certification",
+            "title": "Certified Full-Stack Developer"
+        }
+    ],
+    "profile": {
+        "aboutParagraph1": "I am a dedicated IT Specialist and Full-Stack Developer residing in Maramag, Bukidnon, Philippines. I specialize in bridging the gap between business operations and technological solutions\u2014building fast, reliable, and user-friendly software systems.",
+        "aboutParagraph2": "My core technical stack includes Python, Flask, MySQL, React, Vite, and Tailwind CSS. Beyond web development, my background encompasses network administration, computer hardware repair, database optimization, and deployment workflows.",
+        "aboutParagraph3": "Driven by Mindanao's burgeoning tech industry, I am committed to delivering clean, maintainable code and exceptional technical support for local organizations as well as international remote enterprises.",
+        "avatarUrl": "http://127.0.0.1:5000/static/uploads/1791636221_wmremove-transformed_1.png",
+        "contactTagline": "Interested in collaborating on a web project, hiring an IT Specialist, or remote software engineering roles? Send me a message!",
+        "email": "pepitojaysonpepitojayson129@gmail.com",
+        "fullName": "Jayson Pepito",
+        "github": "https://github.com",
+        "heroRole": "IT Specialist / Web Developer",
+        "heroTagline": "Building enterprise-grade web applications, automated Python systems, and scalable databases for businesses in Maramag, Bukidnon and remote global teams.",
+        "linkedin": "https://linkedin.com",
+        "location": "Maramag, Bukidnon, Philippines \ud83c\uddf5\ud83c\udded",
+        "locationBadge": "\ud83d\udccd Maramag Bukidnon, Philippines \u2022 Available for Local & Remote Roles"
+    },
+    "projects": [
+        {
+            "demo": "https://example.com",
+            "description": "A full-stack web dashboard managing container inventory, delivery routes, customer billing logs, and daily revenue reporting for water refilling stations.",
+            "github": "https://github.com",
+            "id": "p1",
+            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&auto=format&fit=crop&q=80",
+            "tech": [
+                "React",
+                "Vite",
+                "Tailwind CSS",
+                "Flask",
+                "MySQL"
+            ],
+            "title": "AquaFlow \u2014 Water Refilling Station Dashboard"
+        },
+        {
+            "demo": "https://example.com",
+            "description": "A Python desktop assistant with NLP capabilities, desktop command automation, API integrations, and instant web research query handlers.",
+            "github": "https://github.com",
+            "id": "p2",
+            "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+            "tech": [
+                "Python 3",
+                "CustomTkinter",
+                "REST APIs",
+                "NLP"
+            ],
+            "title": "My AI Assistant Application"
+        }
+    ],
+    "timeline": [
+        {
+            "description": "Delivered responsive web apps, RESTful APIs in Flask, and MySQL database optimizations.",
+            "id": "t1",
+            "organization": "Bukidnon & Remote Clients",
+            "period": "2023 \u2014 Present",
+            "role": "Freelance Full-Stack Developer"
+        }
+    ]
+}
